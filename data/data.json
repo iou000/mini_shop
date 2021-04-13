@@ -61,7 +61,7 @@
             "gender": "female",
             "size": "small",
             "color": "blue",
-            "image": "../imgs/blue_t.png"
+            "image": "../imgs/blue_p.png"
         },
         {
             "type": "tshirt",
